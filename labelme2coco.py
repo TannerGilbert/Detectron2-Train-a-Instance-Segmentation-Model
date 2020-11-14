@@ -1,5 +1,6 @@
+# from https://github.com/Tony607/labelme2coco/blob/master/labelme2coco.py
+
 import os
-import argparse
 import json
 
 from labelme import utils
